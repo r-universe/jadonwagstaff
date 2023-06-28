@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "remap"]
 	path = remap
 	url = https://github.com/jadonwagstaff/remap
-	shallow = true
-	registered = true
 [submodule "sboost"]
 	path = sboost
 	url = https://github.com/jadonwagstaff/sboost
-	shallow = true
-	registered = true
